@@ -1,4 +1,4 @@
-# python-recognize-math-expression
+# mathematical expression recognition
 Recognize simple mathematical expression using Python + OpenCV
 
 ## Requires:
